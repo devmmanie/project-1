@@ -1,0 +1,37 @@
+h1{
+    color: rgb(156, 255, 7);
+    text-align: center;
+    text-transform: lowercase;
+    font-size: 70px;
+    border: 2px dotted green;
+    border-radius: 30px;
+    background-color: rgb(1, 255, 179);
+}
+.button{
+    background-color: lawngreen;
+    color: black;
+    padding: 9px;
+}
+.button:hover{
+    background-color: mediumseagreen;
+    color: white;
+}
+.class-1{
+    color: rgb(7, 77, 7);
+    font-size: 120%;
+}
+p{
+    color: rgb(5, 95, 46);
+    column-count: 3;
+    font-size: 19px;
+}
+.container form {
+    border: 1px lightgreen solid ;
+    padding: 30px;
+    margin: 10px;
+    background-color: lightseagreen;
+    border-radius: 70px;
+}
+label{
+    display: block;
+}
